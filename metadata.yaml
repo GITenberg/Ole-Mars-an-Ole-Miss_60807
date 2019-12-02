@@ -1,11 +1,16 @@
 _repo: Ole-Mars-an-Ole-Miss_60807
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60807-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldsborough, Edmund K.
     gutenberg_agent_id: '51149'
     url: http://www.gutenberg.org/2009/agents/51149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60807#Ole-Mars-an-Ole-Miss
 gutenberg_issued: '2019-11-29'
 gutenberg_type: Text
 identifiers:
